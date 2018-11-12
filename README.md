@@ -74,6 +74,7 @@ add the following code to edit.xml
 
 # step4
 add following code to photo.xml
+![screenshot 2](https://user-images.githubusercontent.com/37542255/48367355-6afc7d80-e67e-11e8-982a-22b347b911b2.png)
 
 
 # step5
