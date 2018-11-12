@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Floating A Menu</string>
+    <string name="photo">Photo</string>
+    <string name="record" />
+    <string name="edit">Edit</string>
+</resources>
