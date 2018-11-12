@@ -79,3 +79,6 @@ add following code to photo.xml
 
 # step5
 add following code to record.xml
+
+![screenshot 3](https://user-images.githubusercontent.com/37542255/48367401-8f585a00-e67e-11e8-9a2e-0351442bbfcc.png)
+
