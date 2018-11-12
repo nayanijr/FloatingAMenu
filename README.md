@@ -137,3 +137,5 @@ Run the program by using (SHIFT + F10)
 
 
 # Output on Emulator 
+
+![nayani1](https://user-images.githubusercontent.com/37542255/48367559-0d1c6580-e67f-11e8-943b-acee0b9e3a63.gif)
