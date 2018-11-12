@@ -6,6 +6,10 @@ Floating action menu provides quick acces to common actions within the app
 # Demo
 ![nayani1](https://user-images.githubusercontent.com/37542255/48367559-0d1c6580-e67f-11e8-943b-acee0b9e3a63.gif)
 
+
+
+above  GIF  displays how it works
+
 # Step1 
 
 open android Studio
@@ -68,7 +72,7 @@ in activity main.xml  add the following code
 # step2 
 
 resource > drawable> new > vectorasset > create 3 assets
-photo,edit and record
+photo,edit and record are created in drawable
 
 # step3
 
