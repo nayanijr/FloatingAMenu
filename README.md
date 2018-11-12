@@ -70,4 +70,11 @@ photo,edit and record
 
 add the following code to edit.xml
 
+![screenshot 1](https://user-images.githubusercontent.com/37542255/48366662-8a92a680-e67c-11e8-9ab4-ecd9dcbd6abb.png)
 
+# step4
+add following code to photo.xml
+
+
+# step5
+add following code to record.xml
