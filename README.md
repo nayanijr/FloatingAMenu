@@ -1,4 +1,4 @@
-# FloatingAMenu
+# Floating Action Menu
 It is a round action Button  which will be evolved above other page content. It comes in mini size
 Floating action menu provides quick acces to common actions within the app
 
