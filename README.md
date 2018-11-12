@@ -132,4 +132,8 @@ public class MainActivity extends AppCompatActivity {
 }
 
 
+# step 7 
+Run the program by using (SHIFT + F10)
 
+
+# Output on Emulator 
